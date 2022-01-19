@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+.background{
+    background-color: gray;
+}
+#resume-templates{
+    display: none;
+}
+*{
+    font-family: 'EB Garamond', serif;
+}
