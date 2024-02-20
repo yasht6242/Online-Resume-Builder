@@ -1,0 +1,36 @@
+.container {
+  padding: 20px 20px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 30px;
+  background-image: linear-gradient(to right,rgb(238, 252, 255),rgb(247, 247, 255));
+  
+}
+
+.heading {
+  margin: 0 auto;
+  color: #570861;
+  font-size: 3.1rem;
+  line-height: 4.1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.heading span {
+  background-clip: text;
+  background-image: linear-gradient(to right, #239ce2, #1369b9);
+  color: transparent;
+}
+
+button{
+  border: none;
+  background-color: rgb(48, 47, 47);
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+}
